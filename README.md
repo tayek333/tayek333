@@ -1,1 +1,1 @@
-<a href="https://wakatime.com/badge/github/tayek333/tayek333"><img src="https://wakatime.com/badge/github/tayek333/tayek333.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@463ecb27-bd0e-4bee-a183-86ab3dc4d975"><img src="https://wakatime.com/badge/user/463ecb27-bd0e-4bee-a183-86ab3dc4d975.svg" alt="Total time coded since Jul 10 2023" /></a>
